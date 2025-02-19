@@ -1,4 +1,4 @@
-import { Text, View } from 'tamagui'
+import { Text, View } from "tamagui";
 
 export default function TabTwoScreen() {
   return (
@@ -7,5 +7,5 @@ export default function TabTwoScreen() {
         Tab Two
       </Text>
     </View>
-  )
+  );
 }
